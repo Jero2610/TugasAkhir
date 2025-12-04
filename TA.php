@@ -72,7 +72,7 @@ class UtbkSimulator {
             $cleanScore = str_replace(['(', ')'], '', $rawScore);
             $cleanScore = str_replace(',', '.', $cleanScore);
             
-         
+          
             $minScore = is_numeric($cleanScore) ? (float)$cleanScore : 0.0;
             
             // Modul 2 Pengkondisian
@@ -124,10 +124,10 @@ class UtbkSimulator {
         } elseif (empty($this->cutoffData) && empty($this->errorMessage)) {
              
         } else {
-           
+            
             $this->averageScore = round($totalScore / $scoreCount, 2);
 
-           
+            
             foreach ($this->cutoffData as $item) {
                 $minScore = $item['min_score'];
                 $scoreDiff = $this->averageScore - $minScore;
@@ -143,7 +143,7 @@ class UtbkSimulator {
                 }
             }
             
-           
+            
             usort($this->acceptanceResults, function($a, $b) {
               
                 return $b['min_score'] <=> $a['min_score'];
@@ -160,7 +160,7 @@ class UtbkSimulator {
         return $scoreDiff >= 0 ? "Selisih: + " . $formattedDiff . " Poin" : "Selisih: - " . $formattedDiff . " Poin";
     }
 
-   
+    
     public function renderHtml(): void {
         $averageScore = $this->averageScore;
         $errorMessage = $this->errorMessage;
@@ -168,14 +168,14 @@ class UtbkSimulator {
         $inputScores = $this->inputScores;
         $subjects = $this->subjects;
 
-      
+   //Modul 8 GUI 	
 ?>
 <!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulator UTBK (OOP)</title>
+    <title>Simulator UTBK (OOP) & Login</title>
  
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
@@ -208,7 +208,7 @@ class UtbkSimulator {
             background-color: #2a2a2a;
             padding: 12px;
         }
-       
+        
         input[type=number]::-webkit-inner-spin-button, input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
         input[type=number] { -moz-appearance: textfield; }
     </style>
@@ -223,128 +223,218 @@ class UtbkSimulator {
             <p class="text-gray-400 mt-2">Menampilkan Jurusan yang direkomendasikan berdasarkan skor rata-rata.</p>
         </header>
 
-        <main class="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            <!-- Kolom 1: Form Input Skor (4. GUI) -->
-            <div class="lg:col-span-1 card p-6 rounded-xl h-fit">
-                <h2 class="text-xl font-bold mb-6 text-white border-b border-gray-700 pb-3">Input Skor Mata Pelajaran</h2>
-                <!-- Form utama untuk pengiriman data -->
-                <form id="utbk-form" method="POST" action="">
-                    <!-- 1. Perulangan untuk membuat semua field input -->
-                    <?php foreach ($subjects as $key => $name): ?>
-                        <div class="mb-4">
-                            <label for="<?= $key ?>" class="block text-gray-300 text-sm font-semibold mb-2"><?= $name ?></label>
-                            <input type="number" name="scores[<?= $key ?>]" id="<?= $key ?>" min="0" max="1000"
-                                inputmode="numeric" 
-                                value="<?= htmlspecialchars((string)($inputScores[$key] ?? '')) ?>"
-                                required
-                                class="score-input shadow appearance-none border border-gray-700 rounded w-full py-3 px-4 bg-gray-700 text-white leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-150 ease-in-out">
-                            <p class="text-xs text-gray-500 mt-1">Skor harus antara 0 hingga 1000.</p>
+        <!-- START: Kontainer Login -->
+        <div id="login-container" class="max-w-md mx-auto card p-6 rounded-xl hidden">
+            <h2 class="text-2xl font-bold mb-6 text-white text-center">Login Siswa</h2>
+            <form id="login-form">
+                <div class="mb-4">
+                    <label for="nisn" class="block text-gray-300 text-sm font-semibold mb-2">NISN (10 Digit)</label>
+                    <input type="text" id="nisn" required minlength="10" maxlength="10"
+                        class="shadow appearance-none border border-gray-700 rounded w-full py-3 px-4 bg-gray-700 text-white leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-150 ease-in-out"
+                        placeholder="Masukkan NISN Anda">
+                </div>
+                <div class="mb-6">
+                    <label for="password" class="block text-gray-300 text-sm font-semibold mb-2">Password</label>
+                    <input type="password" id="password" required minlength="6"
+                        class="shadow appearance-none border border-gray-700 rounded w-full py-3 px-4 bg-gray-700 text-white leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-150 ease-in-out"
+                        placeholder="Masukkan Password">
+                </div>
+                <button type="submit" 
+                    class="btn-primary w-full text-white font-bold py-3 px-4 rounded-lg rounded-xl hover:opacity-90 transition duration-150 ease-in-out">
+                    MASUK
+                </button>
+                <p id="login-error" class="text-sm text-red-500 mt-3 hidden text-center">NISN harus 10 digit dan Password minimal 6 karakter.</p>
+                <p id="logged-in-message" class="text-sm text-green-500 mt-3 hidden text-center">Login Berhasil! Selamat datang, <span id="nisn-display"></span>.</p>
+            </form>
+        </div>
+        <!-- END: Kontainer Login -->
+
+        <!-- START: Kontainer Utama Simulator (Disembunyikan sampai Login) -->
+        <div id="simulator-main-content" class="hidden">
+            <main class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+                <!-- Kolom 1: Form Input Skor (4. GUI) -->
+                <div class="lg:col-span-1 card p-6 rounded-xl h-fit">
+                    <h2 class="text-xl font-bold mb-6 text-white border-b border-gray-700 pb-3">Input Skor Mata Pelajaran</h2>
+                    <!-- Form utama untuk pengiriman data -->
+                    <form id="utbk-form" method="POST" action="">
+                        <!-- 1. Perulangan untuk membuat semua field input -->
+                        <?php foreach ($subjects as $key => $name): ?>
+                            <div class="mb-4">
+                                <label for="<?= $key ?>" class="block text-gray-300 text-sm font-semibold mb-2"><?= $name ?></label>
+                                <input type="number" name="scores[<?= $key ?>]" id="<?= $key ?>" min="0" max="1000"
+                                    inputmode="numeric" 
+                                    value="<?= htmlspecialchars((string)($inputScores[$key] ?? '')) ?>"
+                                    required
+                                    class="score-input shadow appearance-none border border-gray-700 rounded w-full py-3 px-4 bg-gray-700 text-white leading-tight focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition duration-150 ease-in-out">
+                                <p class="text-xs text-gray-500 mt-1">Skor harus antara 0 hingga 1000.</p>
+                            </div>
+                        <?php endforeach; ?>
+
+                        <div class="mt-6 flex space-x-4">
+                            <button type="submit" name="action" value="reset" 
+                                    class="btn-secondary w-1/3 text-white font-bold py-3 px-4 rounded-lg rounded-xl transition duration-150 ease-in-out">
+                                Reset
+                            </button>
+                            <button type="submit" name="action" value="calculate"
+                                    id="submit-button"
+                                    class="btn-primary w-2/3 text-white font-bold py-3 px-4 rounded-lg rounded-xl hover:bg-indigo-600 transition duration-150 ease-in-out">
+                                Hitung Rata-Rata
+                            </button>
                         </div>
-                    <?php endforeach; ?>
+                    </form>
+                    <button id="logout-button" class="mt-4 w-full text-sm text-red-400 hover:text-red-300">Logout</button>
+                </div>
 
-                    <div class="mt-6 flex space-x-4">
-                        <button type="submit" name="action" value="reset" 
-                                class="btn-secondary w-1/3 text-white font-bold py-3 px-4 rounded-lg rounded-xl transition duration-150 ease-in-out">
-                            Reset
-                        </button>
-                        <button type="submit" name="action" value="calculate"
-                                id="submit-button"
-                                class="btn-primary w-2/3 text-white font-bold py-3 px-4 rounded-lg rounded-xl hover:bg-indigo-600 transition duration-150 ease-in-out">
-                            Hitung Rata-Rata
-                        </button>
-                    </div>
-                </form>
-            </div>
+                
+                <div class="lg:col-span-2 space-y-8">
+                    <?php if (!empty($errorMessage)): ?>
+                
+                        <div class="bg-red-900/50 border border-red-700 p-4 rounded-lg text-red-300 rounded-xl">
+                            <p class="font-semibold">Kesalahan Data/Pemrosesan:</p>
+                            <p><?php echo htmlspecialchars($errorMessage); ?></p>
+                        </div>
+                    <?php endif; ?>
 
-           
-            <div class="lg:col-span-2 space-y-8">
-                <?php if (!empty($errorMessage)): ?>
-             
-                    <div class="bg-red-900/50 border border-red-700 p-4 rounded-lg text-red-300 rounded-xl">
-                        <p class="font-semibold">Kesalahan Data/Pemrosesan:</p>
-                        <p><?php echo htmlspecialchars($errorMessage); ?></p>
-                    </div>
-                <?php endif; ?>
+                    <?php if ($averageScore !== null && empty($errorMessage)): ?>
+                
+                        <div class="card p-6 rounded-xl">
+                            <h2 class="text-2xl font-bold mb-4 text-white border-b border-indigo-500 pb-2">
+                                Rata-Rata Skor UTBK Anda
+                            </h2>
+                            <div class="bg-gray-800 p-4 rounded-lg rounded-xl">
+                                <p class="text-lg font-semibold text-gray-300">Total Rata-Rata Sederhana:</p>
+                                <p class="text-4xl font-extrabold text-yellow-400 mt-1">
+                                    <?php echo number_format($averageScore, 2); ?>
+                                </p>
+                                <p class="text-sm text-gray-500 mt-1">Dihitung dari <?= count($subjects) ?> subtes.</p>
+                            </div> 
+                        </div>
 
-                <?php if ($averageScore !== null && empty($errorMessage)): ?>
-             
-                    <div class="card p-6 rounded-xl">
-                        <h2 class="text-2xl font-bold mb-4 text-white border-b border-indigo-500 pb-2">
-                            Rata-Rata Skor UTBK Anda
-                        </h2>
-                        <div class="bg-gray-800 p-4 rounded-lg rounded-xl">
-                            <p class="text-lg font-semibold text-gray-300">Total Rata-Rata Sederhana:</p>
-                            <p class="text-4xl font-extrabold text-yellow-400 mt-1">
-                                <?php echo number_format($averageScore, 2); ?>
-                            </p>
-                            <p class="text-sm text-gray-500 mt-1">Dihitung dari <?= count($subjects) ?> subtes.</p>
-                        </div> 
-                    </div>
+                        
+                        <div class="card p-6 rounded-xl">
+                            <h2 class="text-2xl font-bold mb-4 text-white border-b border-green-500 pb-2">
+                                Top 10 Jurusan Lulus 
+                            </h2>
 
-                   
-                    <div class="card p-6 rounded-xl">
-                        <h2 class="text-2xl font-bold mb-4 text-white border-b border-green-500 pb-2">
-                            Top 10 Jurusan Lulus 
-                        </h2>
+                            <?php if (!empty($acceptanceResults)): ?>
+                                
+                                <div class="overflow-x-auto">
+                                    <table class="result-table w-full text-sm rounded-lg overflow-hidden">
+                                        <thead>
+                                            <tr>
+                                                <th class="w-1/4">Universitas</th>
+                                                <th class="w-1/2">Jurusan</th>
+                                                <th class="w-1/4 text-left">Skor Minimum</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                        
+                                            <?php 
+                                            $rank = 1;
+                                            foreach ($acceptanceResults as $result): 
+                                            
+                                                $scoreDiffMsg = $this->getScoreDifferenceMessage($result['score_diff']);
+                                            ?>
+                                            <tr class="hover:bg-gray-800">
+                                                <td class="font-medium text-white">
+                                                    <span class="inline-block w-4 text-indigo-400 font-bold mr-2"><?= $rank++ ?>.</span>
+                                                    <?= htmlspecialchars($result['university']); ?>
+                                                </td>
+                                                <td>
+                                                    <div class="font-medium text-gray-300"><?= htmlspecialchars($result['major']); ?></div>
+                                                    <div class="text-xs text-green-500"><?= $scoreDiffMsg; ?></div>
+                                                </td>
+                                                <td class="text-yellow-400 font-mono text-left"><?= number_format($result['min_score'], 2); ?></td>
+                                            </tr>
+                                            <?php endforeach; ?>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <p class="mt-4 text-sm text-gray-500">Menampilkan 10 jurusan teratas, diurutkan dari Skor Minimum tertinggi hingga terendah.</p>
+                            <?php else: ?>
 
-                        <?php if (!empty($acceptanceResults)): ?>
-                            
-                            <div class="overflow-x-auto">
-                                <table class="result-table w-full text-sm rounded-lg overflow-hidden">
-                                    <thead>
-                                        <tr>
-                                            <th class="w-1/4">Universitas</th>
-                                            <th class="w-1/2">Jurusan</th>
-                                            <th class="w-1/4 text-left">Skor Minimum</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                  
-                                        <?php 
-                                        $rank = 1;
-                                        foreach ($acceptanceResults as $result): 
-                                   
-                                            $scoreDiffMsg = $this->getScoreDifferenceMessage($result['score_diff']);
-                                        ?>
-                                        <tr class="hover:bg-gray-800">
-                                            <td class="font-medium text-white">
-                                                <span class="inline-block w-4 text-indigo-400 font-bold mr-2"><?= $rank++ ?>.</span>
-                                                <?= htmlspecialchars($result['university']); ?>
-                                            </td>
-                                            <td>
-                                                <div class="font-medium text-gray-300"><?= htmlspecialchars($result['major']); ?></div>
-                                                <div class="text-xs text-green-500"><?= $scoreDiffMsg; ?></div>
-                                            </td>
-                                            <td class="text-yellow-400 font-mono text-left"><?= number_format($result['min_score'], 2); ?></td>
-                                        </tr>
-                                        <?php endforeach; ?>
-                                    </tbody>
-                                </table>
-                            </div>
-                            <p class="mt-4 text-sm text-gray-500">Menampilkan 10 jurusan teratas, diurutkan dari Skor Minimum tertinggi hingga terendah.</p>
-                        <?php else: ?>
-
-                            <div class="bg-red-900/50 border border-red-700 p-4 rounded-lg text-red-300 rounded-xl">
-                                <p class="font-semibold">Mohon Maaf!</p>
-                                <p>Skor rata-rata Anda belum mencapai Skor Minimum untuk jurusan yang terdata dalam simulasi ini.</p>
-                            </div>
-                        <?php endif; ?>
-                    </div>
-                <?php elseif (empty($errorMessage)): ?>
-                    <div class="card p-8 text-center rounded-xl lg:col-span-3">
-                        <svg class="w-16 h-16 mx-auto mb-4 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v14m-6 3h6a2 2 0 002-2v-3m-6-1V3a1 1 0 011-1h2a1 1 0 011 1v12m-8 3v-2m-1 0H4a1 1 0 01-1-1V9a1 1 0 011-1h3m-1 0V4"></path></svg>
-                        <h2 class="text-2xl font-semibold text-white">Mulai Analisis Skor UTBK Anda</h2>
-                        <p class="text-gray-400 mt-2">Masukkan 7 skor mata pelajaran Anda di formulir sebelah kiri, lalu tekan tombol "Hitung Rata-Rata".</p>
-                    </div>
-                <?php endif; ?>
-            </div>
-        </main>
+                                <div class="bg-red-900/50 border border-red-700 p-4 rounded-lg text-red-300 rounded-xl">
+                                    <p class="font-semibold">Mohon Maaf!</p>
+                                    <p>Skor rata-rata Anda belum mencapai Skor Minimum untuk jurusan yang terdata dalam simulasi ini.</p>
+                                </div>
+                            <?php endif; ?>
+                        </div>
+                    <?php elseif (empty($errorMessage)): ?>
+                        <div class="card p-8 text-center rounded-xl lg:col-span-3">
+                            <svg class="w-16 h-16 mx-auto mb-4 text-indigo-500" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v14m-6 3h6a2 2 0 002-2v-3m-6-1V3a1 1 0 011-1h2a1 1 0 011 1v12m-8 3v-2m-1 0H4a1 1 0 01-1-1V9a1 1 0 011-1h3m-1 0V4"></path></svg>
+                            <h2 class="text-2xl font-semibold text-white">Mulai Analisis Skor UTBK Anda</h2>
+                            <p class="text-gray-400 mt-2">Masukkan 7 skor mata pelajaran Anda di formulir sebelah kiri, lalu tekan tombol "Hitung Rata-Rata".</p>
+                        </div>
+                    <?php endif; ?>
+                </div>
+            </main>
+        </div>
+        <!-- END: Kontainer Utama Simulator -->
         
         <footer class="text-center mt-12 text-sm text-gray-600 border-t border-gray-800 pt-6">
             <p>Simulator UTBK.</p>
         </footer>
     </div>
     
+    <!-- JavaScript untuk Logic Login Gate -->
+    <script>
+        const LOGIN_KEY = 'utbk_simulator_logged_in';
+        const NISN_KEY = 'utbk_simulator_nisn';
+        const loginContainer = document.getElementById('login-container');
+        const simulatorContent = document.getElementById('simulator-main-content');
+        const loginForm = document.getElementById('login-form');
+        const loginError = document.getElementById('login-error');
+        const nisnDisplay = document.getElementById('nisn-display');
+        const loggedInMessage = document.getElementById('logged-in-message');
+        const logoutButton = document.getElementById('logout-button');
+
+        function checkLoginStatus() {
+            if (localStorage.getItem(LOGIN_KEY) === 'true') {
+                const nisn = localStorage.getItem(NISN_KEY) || 'Siswa';
+                nisnDisplay.textContent = nisn;
+                loginContainer.classList.add('hidden');
+                simulatorContent.classList.remove('hidden');
+                loggedInMessage.classList.remove('hidden');
+            } else {
+                loginContainer.classList.remove('hidden');
+                simulatorContent.classList.add('hidden');
+                loggedInMessage.classList.add('hidden');
+            }
+        }
+
+        loginForm.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const nisnInput = document.getElementById('nisn').value;
+            const passwordInput = document.getElementById('password').value;
+            
+            // Validasi sederhana (dummy check)
+            if (nisnInput.length === 10 && passwordInput.length >= 6) {
+                // Login Berhasil
+                localStorage.setItem(LOGIN_KEY, 'true');
+                localStorage.setItem(NISN_KEY, nisnInput);
+                loginError.classList.add('hidden');
+                checkLoginStatus();
+            } else {
+                // Login Gagal
+                loginError.classList.add('hidden');
+                loginError.textContent = "NISN harus 10 digit dan Password minimal 6 karakter.";
+                loginError.classList.remove('hidden');
+            }
+        });
+        
+        logoutButton.addEventListener('click', function() {
+            localStorage.removeItem(LOGIN_KEY);
+            localStorage.removeItem(NISN_KEY);
+            // Reset input fields
+            document.getElementById('nisn').value = '';
+            document.getElementById('password').value = '';
+            checkLoginStatus();
+        });
+
+        // Panggil saat halaman dimuat
+        checkLoginStatus();
+    </script>
 </body>
 </html>
 <?php
