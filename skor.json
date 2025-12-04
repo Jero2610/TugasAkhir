@@ -1,0 +1,4190 @@
+[
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ADMINISTRASI PUBLIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "648,85"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "AKUAKULTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "570,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "AKUAKULTUR (FIKKIA BANYUWANGI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "519,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "539,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "686,38"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ANTROPOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "581,03"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "BAHASA DAN SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "597,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "BAHASA DAN SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "BAHASA INGGRIS",
+    "JENJANG": "D3",
+    "SKOR UTBK": "524,83"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "564,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "DESTINASI PARIWISATA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "569,50"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "EKONOMI ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "624,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "EKONOMI PEMBANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "648,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "534,55"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "FISIOTERAPI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "633,28"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "667,94"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "672,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "692,88"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU INFORMASI DAN PERPUSTAKAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "595,60"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "674,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU POLITIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,17"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "ILMU SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "569,13"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEBIDANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "644,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "703,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEDOKTERAN GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "689,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEDOKTERAN HEWAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "666,15"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEDOKTERAN HEWAN (FIKKIA BANYUWANGI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "582,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEPERAWATAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "601,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "681,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KESEHATAN MASYARAKAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "674,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KESEHATAN MASYARAKAT (FIKKIA BANYUWANGI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "581,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KESELAMATAN DAN KESEHATAN KERJA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "674,50"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "530,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,04"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "MANAJEMEN PEMASARAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "528,71"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "MANAJEMEN PERHOTELAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "566,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "MANAJEMEN PERKANTORAN DIGITAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "594,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "566,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "PENGOBAT TRADISIONAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "528,64"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "PERBANKAN DAN KEUANGAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "570,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "PERPAJAKAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "600,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "698,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "REKAYASA NANOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "565,62"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "SISTEM INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "663,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "620,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "STUDI KEJEPANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK BIOMEDIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "599,88"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,17"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,04"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNIK ROBOTIKA DAN KECERDASAN BUATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "613,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNOLOGI HASIL PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "577,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNOLOGI LABORATORIUM MEDIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "657,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNOLOGI RADIOLOGI PENCITRAAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "670,62"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNOLOGI REKAYASA INSTRUMENTASI DAN KONTROL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "516,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS AIRLANGGA",
+    "JURUSAN": "TEKNOLOGI SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "AKUNTANSI SEKTOR PUBLIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "817,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA INGGRIS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "785,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA JEPANG UNTUK KOMUNIKASI BISNIS DAN PROFESIONAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "751,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BISNIS PERJALANAN WISATA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "776,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MANAJEMEN DAN PENILAIAN PROPERTI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "776,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MANAJEMEN INFORMASI KESEHATAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "818,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PEMBANGUNAN EKONOMI KEWILAYAHAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "764,28"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PENGELOLAAN ARSIP DAN REKAMAN INFORMASI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "760,47"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PENGELOLAAN HUTAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "753,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PENGEMBANGAN PRODUK AGROINDUSTRI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "745,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PERBANKAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "801,82"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "SISTEM INFORMASI GEOGRAFIS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "713,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK PENGELOLAAN DAN PEMELIHARAAN INFRASTRUKTUR SIPIL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "761,46"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK PENGELOLAAN DAN PERAWATAN ALAT BERAT",
+    "JENJANG": "D4",
+    "SKOR UTBK": "696,65"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA ELEKTRO",
+    "JENJANG": "D4",
+    "SKOR UTBK": "741,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA INSTRUMENTASI DAN KONTROL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "677,13"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA INTERNET",
+    "JENJANG": "D4",
+    "SKOR UTBK": "734,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA MESIN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "713,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA PELAKSANAAN BANGUNAN SIPIL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "718,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI REKAYASA PERANGKAT LUNAK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "806,66"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI SURVEI DAN PEMETAAN DASAR",
+    "JENJANG": "D4",
+    "SKOR UTBK": "685,51"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI VETERINER",
+    "JENJANG": "D4",
+    "SKOR UTBK": "693,60"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "AGRONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "631,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "AKUAKULTUR (BUDIDAYA PERIKANAN)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "617,00"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "806,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ANTROPOLOGI BUDAYA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "668,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ARKEOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "647,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "714,99"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA DAN KEBUDAYAAN JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "653,05"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA DAN KEBUDAYAAN KOREA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "686,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA DAN SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "666,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA DAN SASTRA PRANCIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "602,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BAHASA, SASTRA, DAN BUDAYA JAWA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "604,82"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "672,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "EKONOMI PERTANIAN DAN AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "669,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ELEKTRONIKA DAN INSTRUMENTASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "643,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "785,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "FILSAFAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "679,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "602,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "GEOFISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "614,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "GEOGRAFI LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "737,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "HIGIENE GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "635,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "817,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "655,06"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU DAN INDUSTRI PETERNAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "691,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU EKONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "714,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "757,56"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "743,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "747,37"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "768,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "ILMU TANAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "611,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KARTOGRAFI DAN PENGINDERAAN JAUH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,37"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "838,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KEDOKTERAN GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "751,00"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KEDOKTERAN HEWAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "702,24"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KEHUTANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "732,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "654,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "812,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MANAJEMEN DAN KEBIJAKAN PUBLIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "733,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MANAJEMEN SUMBERDAYA AKUATIK (MANAJEMEN SUMBER DAYA PERIKANAN)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,58"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "MIKROBIOLOGI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,58"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PARIWISATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "710,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PEMBANGUNAN SOSIAL DAN KESEJAHTERAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "712,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PEMBANGUNAN WILAYAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "635,28"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PENYULUHAN DAN KOMUNIKASI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "604,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PERENCANAAN WILAYAH DAN KOTA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,66"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "POLITIK DAN PEMERINTAHAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "689,15"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PROTEKSI TANAMAN (ILMU HAMA DAN PENYAKIT TUMBUHAN)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "641,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "819,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "SASTRA ARAB",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "691,59"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "633,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "655,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "680,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK BIOMEDIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "669,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "693,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,82"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK GEODESI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "677,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK GEOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "740,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "754,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK INFRASTRUKTUR LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "683,95"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "702,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "720,66"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK NUKLIR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "651,52"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "638,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "748,23"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNIK SUMBER DAYA AIR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI HASIL PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,54"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI INDUSTRI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "651,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS GADJAH MADA",
+    "JURUSAN": "TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "719,54"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "D3",
+    "SKOR UTBK": "527,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "660,37"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "AGROTEKNOLOGI / AGROEKOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,13"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "547,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "698,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "672,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BAHASA INGGRIS",
+    "JENJANG": "D3",
+    "SKOR UTBK": "510,02"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BAHASA MANDARIN DAN KEBUDAYAAN TIONGKOK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "525,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BIMBINGAN DAN KONSELING",
+    "JENJANG": "S1",
+    "SKOR UTBK": "667,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "537,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BISNIS DIGITAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "709,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "BUDI DAYA TERNAK",
+    "JENJANG": "D3",
+    "SKOR UTBK": "514,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "DEMOGRAFI DAN PENCATATAN SIPIL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "647,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "DESAIN INTERIOR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "547,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "D3",
+    "SKOR UTBK": "517,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "671,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "EKONOMI PEMBANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "663,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "598,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "692,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "525,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "654,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU ADMINISTRASI NEGARA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "676,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU DAN TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "674,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "715,52"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "700,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "636,75"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "575,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "ILMU TANAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "602,94"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "700,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KEBIDANAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "549,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KEBIDANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "648,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "718,60"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KEPERAWATAN ANESTESIOLOGI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KESELAMATAN DAN KESEHATAN KERJA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "686,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "529,22"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KOMUNIKASI TERAPAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "553,85"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "KRIYA SENI (DESAIN TEKSTIL)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "509,50"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "713,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "MANAJEMEN ADMINISTRASI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "601,67"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "MANAJEMEN BISNIS",
+    "JENJANG": "D3",
+    "SKOR UTBK": "628,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "MANAJEMEN PERDAGANGAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "510,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "549,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PEND. BAHASA, SASTRA INDONESIA & DAERAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "626,25"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PEND. GURU PEND ANAK USIA DINI (PG-PAUD)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "560,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PEND. GURU SEKOLAH DASAR (PGSD) KEBUMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "623,52"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PEND. GURU SEKOLAH DASAR (PGSD) SURAKARTA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "688,83"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PEND. PANCASILA & KEWARGANEGARAAN (PPKN)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "585,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN ADMINISTRASI PERKANTORAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "611,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "546,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN BAHASA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "652,05"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN BAHASA JAWA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "574,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,84"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN EKONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "554,65"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "523,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN GEOGRAFI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "547,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN IPA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "529,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN JASMANI, KESEHATAN & REKREASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "639,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN KEPELATIHAN OLAHRAGA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,83"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "516,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN LUAR BIASA (PENDIDIKAN KHUSUS)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "553,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "596,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "548,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN SENI RUPA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "515,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN SOSIOLOGI ANTROPOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "552,04"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN TEKNIK BANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "526,95"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "624,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENDIDIKAN TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "525,83"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENGELOLAAN HUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "619,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PENYULUHAN DAN KOMUNIKASI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "599,99"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PERENCANAAN WILAYAH DAN KOTA (PWK)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PERPAJAKAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "606,28"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PERPUSTAKAAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "544,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PETERNAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "664,55"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "718,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "609,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SASTRA ARAB",
+    "JENJANG": "S1",
+    "SKOR UTBK": "589,66"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SASTRA DAERAH UNTUK SASTRA JAWA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "534,24"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "596,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "655,65"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SENI RUPA MURNI (LUKIS, GRFS, PTNG, KRMIK)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "509,65"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "630,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "629,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "685,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "D3",
+    "SKOR UTBK": "653,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "D3",
+    "SKOR UTBK": "509,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "602,28"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "671,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "D3",
+    "SKOR UTBK": "537,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "687,38"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNOLOGI HASIL PERTANIAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "516,64"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "TEKNOLOGI PENDIDIKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS SEBELAS MARET",
+    "JURUSAN": "USAHA PERJALANAN WISATA",
+    "JENJANG": "D3",
+    "SKOR UTBK": "541,25"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ADMINISTRASI BISNIS PSDKU PANGANDARAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "555,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ADMINISTRASI KEUANGAN PUBLIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ADMINISTRASI PEMERINTAHAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ADMINISTRASI PUBLIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "657,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "643,69"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AGROTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AGROTEKNOPRENEUR",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "675,48"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AKUNTANSI PERPAJAKAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "AKUNTANSI SEKTOR PUBLIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ANTROPOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "BAHASA DAN BUDAYA TIONGKOK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "583,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "BISNIS DIGITAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "BISNIS INTERNASIONAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "BISNIS LOGISTIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "EKONOMI ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "616,84"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "694,16"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "552,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "GEOFISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "569,41"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "HUBUNGAN MASYARAKAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "669,88"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU ADMINISTRASI BISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "665,02"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "619,67"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU EKONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "677,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "706,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU KELAUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "603,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "684,71"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU KESEJAHTERAAN SOSIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "625,05"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "703,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU KOMUNIKASI PSDKU PANGANDARAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "556,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU PEMERINTAHAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "643,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU PERPUSTAKAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "631,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU PETERNAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU POLITIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "ILMU SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "JURNALISTIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "621,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "KEARSIPAN DIGITAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "KEBIDANAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "KEDOKTERAN HEWAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "614,94"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "KEPERAWATAN PSDKU PANGANDARAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "579,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "582,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "695,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "MANAJEMEN KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "670,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "MANAJEMEN PRODUKSI MEDIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "573,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PARIWISATA BAHARI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PEMASARAN DIGITAL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PENDIDIKAN DOKTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "708,71"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PENDIDIKAN DOKTER GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "672,48"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "603,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PERIKANAN PSDKU PANGANDARAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,71"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PETERNAKAN PSDKU PANGANDARAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,25"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "706,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA ARAB",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "610,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "661,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "651,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA JERMAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "560,59"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA PERANCIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "557,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA RUSIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SASTRA SUNDA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "562,39"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "584,61"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "643,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNIK GEOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "661,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "703,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNIK PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "601,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNOLOGI INDUSTRI KIMIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNOLOGI INDUSTRI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "666,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS PADJAJARAN",
+    "JURUSAN": "TELEVISI DAN FILM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,72"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN – KAMPUS CIREBON (FITB-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "662,32"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS ILMU DAN TEKNOLOGI KEBUMIAN (FITB)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "743,19"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM – IPA (FMIPA-IPA)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "686,39"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM – MATEMATIKA (FMIPA-M)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "689,84"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS SENIRUPA DAN DESAIN – KAMPUS CIREBON (FSRD-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "630,97"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS SENIRUPA DAN DESAIN (FSRD)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,2"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNIK MESIN DAN DIRGANTARA (FTMD)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "801,13"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN – KAMPUS CIREBON (FTTM-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "790,62"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNIK PERTAMBANGAN DAN PERMINYAKAN (FTTM)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "820,09"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN – INFRASTRUKTUR SIPIL DAN KELAUTAN (FTSL-SI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "773,57"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNIK SIPIL DAN LINGKUNGAN – TEKNOLOGI LINGKUNGAN (FTSL-L)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "713,11"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNOLOGI INDUSTRI – KAMPUS CIREBON (FTI-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "682,86"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNOLOGI INDUSTRI – REKAYASA INDUSTRI (FTI-RI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "732,46"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "FAKULTAS TEKNOLOGI INDUSTRI – SISTEM DAN PROSES (FTI-SP)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "722,45"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN – KAMPUS CIREBON (SAPPK-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "664,88"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH ARSITEKTUR, PERENCANAAN DAN PENGEMBANGAN KEBIJAKAN (SAPPK)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "725,06"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH BISNIS DAN MANAJEMEN – KAMPUS CIREBON (SBM-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "662,51"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH BISNIS DAN MANAJEMEN (SBM)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "811,67"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH FARMASI (SF)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "704,57"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH ILMU DAN TEKNOLOGI HAYATI – KAMPUS CIREBON (SITH-C)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,44"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH ILMU DAN TEKNOLOGI HAYATI – REKAYASA (SITH-R)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "672,98"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH ILMU DAN TEKNOLOGI HAYATI – SAINS (SITH-S)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "665,30"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA – KOMPUTASI (STEI-K)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "818,63"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI BANDUNG",
+    "JURUSAN": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA – REKAYASA (STEI-R)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "756,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ADMINISTRASI ASURANSI & AKTUARIA",
+    "JENJANG": "D3",
+    "SKOR UTBK": "681,46"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ADMINISTRASI KEUANGAN DAN PERBANKAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "741,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ADMINISTRASI PERKANTORAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "732,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ADMINISTRASI PERPAJAKAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "746,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ADMINISTRASI RUMAH SAKIT",
+    "JENJANG": "D3",
+    "SKOR UTBK": "738,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "754,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "HUBUNGAN MASYARAKAT",
+    "JENJANG": "D3",
+    "SKOR UTBK": "757,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "PENYIARAN MULTIMEDIA",
+    "JENJANG": "D3",
+    "SKOR UTBK": "710,21"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "PERIKLANAN KREATIF",
+    "JENJANG": "D3",
+    "SKOR UTBK": "712,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "BISNIS KREATIF",
+    "JENJANG": "D4",
+    "SKOR UTBK": "759,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "FISIOTERAPI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "700,84"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "MANAJEMEN BISNIS PARIWISATA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "692,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "MANAJEMEN REKOD DAN ARSIP",
+    "JENJANG": "D4",
+    "SKOR UTBK": "672,67"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "PRODUKSI MEDIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "748,60"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TERAPI OKUPASI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "654,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "571,47"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "697,59"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ANTROPOLOGI SOSIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "566,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ARKEOLOGI INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "547,95"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "626,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ARSITEKTUR INTERIOR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "555,47"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "BAHASA DAN KEBUDAYAAN KOREA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "594,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,16"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "BISNIS ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "560,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "507,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "GEOFISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "528,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "GEOGRAFI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "531,48"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "GEOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "534,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "613,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU ADMINISTRASI FISKAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "671,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU ADMINISTRASI NEGARA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "668,75"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU ADMINISTRASI NIAGA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "677,03"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU EKONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU EKONOMI ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "551,47"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU FILSAFAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "544,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "654,65"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "753,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "647,15"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU KESEHATAN MASYARAKAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,94"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU KESEJAHTERAAN SOSIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "625,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "781,24"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU PERPUSTAKAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "575,41"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU POLITIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,85"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "739,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "ILMU SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "510,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "KESEHATAN LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "556,80"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "KESELAMATAN DAN KESEHATAN KERJA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "636,87"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "516,63"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "KRIMINOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "652,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "732,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "527,61"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "PENDIDIKAN DOKTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "826,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "PENDIDIKAN DOKTER GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "649,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA ARAB",
+    "JENJANG": "S1",
+    "SKOR UTBK": "558,61"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA BELANDA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "510,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA CINA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "546,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA DAERAH UNTUK SASTRA JAWA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "501,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "547,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "626,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA JERMAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "510,08"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA PERANCIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "505,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SASTRA RUSIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "502,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SISTEM INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "782,15"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "580,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "573,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK BIOMEDIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "511,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "636,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "670,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "614,54"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "638,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "618,67"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "626,05"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK METALURGI & MATERIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "620,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK PERKAPALAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "559,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "644,88"
+  },
+  {
+    "Universitas": "UNIVERSITAS INDONESIA",
+    "JURUSAN": "TEKNOLOGI BIOPROSES",
+    "JENJANG": "S1",
+    "SKOR UTBK": "546,44"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "678,63"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "582,67"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "DESAIN INTERIOR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,36"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "DESAIN KOMUNIKASI VISUAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "662,50"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "DESAIN PRODUK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,77"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "564,89"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "INOVASI DIGITAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "573,93"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "MANAJEMEN BISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "690,40"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "611,44"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "PERENCANAAN WILAYAH DAN KOTA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "654,02"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "REKAYASA KECERDASAN ARTIFISIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "REKAYASA PERANGKAT LUNAK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "SAINS AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "647,27"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "SAINS ANALITIK DAN INSTRUMENTASI KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "511,48"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "SISTEM INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "716,14"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "655,76"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "STATISTIKA BISNIS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "593,80"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "STUDI PEMBANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "615,64"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEK. SIST PERKAPALAN (GLR GANDA ITS-JERMAN)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "534,71"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK BIOMEDIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "626,69"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "688,87"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "608,50"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK GEOFISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "613,41"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK GEOMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "613,52"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "711,46"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "716,87"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK KELAUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "636,30"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,14"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "640,29"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK LEPAS PANTAI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "529,44"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "650,94"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK MATERIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "680,72"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "697,37"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "585,86"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK PERKAPALAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "637,51"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "626,68"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "702,76"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK SISTEM PERKAPALAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "616,48"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK TELEKOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "584,11"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK TRANSPORTASI LAUT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "571,07"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "647,67"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "653,22"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA INSTRUMENTASI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "531,32"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA KIMIA INDUSTRI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "567,98"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA KONSTRUKSI BANGUNAN AIR",
+    "JENJANG": "D4",
+    "SKOR UTBK": "519,65"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA KONVERSI ENERGI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "515,06"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA MANUFAKTUR",
+    "JENJANG": "D4",
+    "SKOR UTBK": "521,01"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA OTOMASI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "550,57"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,77"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNIK ROBOTIKA DAN KECERDASAN BUATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "613,33"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI HASIL PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "577,45"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI LABORATORIUM MEDIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "657,27"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI RADIOLOGI PENCITRAAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "670,62"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI REKAYASA INSTRUMENTASI DAN KONTROL",
+    "JENJANG": "D4",
+    "SKOR UTBK": "516,32"
+  },
+  {
+    "Universitas": "INSTITUT TEKNOLOGI SEPULUH NOVEMBER",
+    "JURUSAN": "TEKNOLOGI SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,45"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "704,20"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "AGRONOMI DAN HORTIKULTURA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "693,98"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "670,98"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "705,72"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ANALISIS KIMIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "629,21"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ARSITEKTUR LANSEKAP",
+    "JENJANG": "S1",
+    "SKOR UTBK": "679,54"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "BIOKIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "667,62"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,76"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "BISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "719,25"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "EKONOMI PEMBANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "683,98"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "EKONOMI SUMBERDAYA DAN LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "693,76"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "EKONOMI SYARIAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "685,35"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "EKOWISATA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "623,61"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "EKOWISATA (KAMPUS SUKABUMI)",
+    "JENJANG": "D4",
+    "SKOR UTBK": "607,61"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "617,11"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ILMU DAN TEKNOLOGI KELAUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "682,18"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ILMU GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "716,24"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ILMU KELUARGA DAN KONSUMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "683,64"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "ILMU KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "720,36"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KEDOKTERAN HEWAN DAN BIOMEDIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "705,80"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,13"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KOMUNIKASI DAN PENGEMBANGAN MASYARAKAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "711,15"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KOMUNIKASI DIGITAL DAN MEDIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "720,08"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KOMUNIKASI DIGITAL DAN MEDIA (KAMPUS SUKABUMI)",
+    "JENJANG": "D4",
+    "SKOR UTBK": "614,34"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "KONSERVASI SUMBERDAYAHUTAN& EKOWISATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "688,07"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "720,42"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN AGRIBISNIS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "699,98"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN AGRIBISNIS (KAMPUS SUKABUMI)",
+    "JENJANG": "D4",
+    "SKOR UTBK": "611,17"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN HUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "668,44"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN INDUSTRI JASA MAKANAN DAN GIZI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "683,37"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN SUMBERDAYA LAHAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "643,21"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANAJEMEN SUMBERDAYA PERAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "646,16"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MANJEMEN INDUSTRI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "676,37"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,30"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "METEOROLOGI TERAPAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "635,00"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "NUTRISI DAN TEKNOLOGI PAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "671,11"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "PARAMEDIK VETERINER",
+    "JENJANG": "D4",
+    "SKOR UTBK": "610,90"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "PROTEKSI TANAMAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "621,44"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "SAINS BIOMEDIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "SILVIKULTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "658,99"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "SMART AGRICULTURE",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "STATISTIKA DAN SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "704,43"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "SUPERVISOR JAMINAN MUTU PANGAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "624,64"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNIK DAN MANAJEMEN LINGKUNGAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "620,00"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNIK PERTANIAN DAN BIOSISTEM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "666,43"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNIK SIPIL DAN LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "703,84"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI & MANAJEMEN PERIKANAN BUDIDAYA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "654,47"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI & MANAJEMEN PERIKANAN TANGKAP",
+    "JENJANG": "S1",
+    "SKOR UTBK": "660,67"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "603,65"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI DAN MANAJEMEN PEMBENIHAN IKAN (KAMPUS SUKABUMI)",
+    "JENJANG": "D4",
+    "SKOR UTBK": "602,10"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI DAN MANAJEMEN TERNAK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "611,29"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI DAN MANAJEMEN TERNAK (KAMPUS SUKABUMI)",
+    "JENJANG": "D4",
+    "SKOR UTBK": "602,92"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI HASIL HUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "657,78"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI HASIL PERAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "619,32"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI HASIL TERNAK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "646,49"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI INDUSTRI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "694,65"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "707,40"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI PRODUKSI DAN MANAJEMEN PERKEBUNAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "609,70"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI PRODUKSI DAN PENGEMBANGAN MASYARAKAT PERTANIAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "608,46"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI PRODUKSI TERNAK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "637,65"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI REKAYASA KOMPUTER",
+    "JENJANG": "D4",
+    "SKOR UTBK": "618,40"
+  },
+  {
+    "Universitas": "INSTITUT PERTANIAN BOGOR",
+    "JURUSAN": "TEKNOLOGI REKAYASA PERANGKAT LUNAK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "676,46"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ADMINISTRASI BISNIS",
+    "JENJANG": "D3",
+    "SKOR UTBK": "708,87"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KEUANGAN DAN PERBANKAN",
+    "JENJANG": "D3",
+    "SKOR UTBK": "705,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNOLOGI INFORMASI",
+    "JENJANG": "D3",
+    "SKOR UTBK": "708,41"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "DESAIN GRAFIS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "716,64"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "MANAJEMEN PERHOTELAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "769,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ADMINISTRASI BISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "792,14"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ADMINISTRASI PENDIDIKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "642,64"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ADMINISTRASI PUBLIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "759,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "715,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AGRIBISNIS (PSDKU KEDIRI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "616,08"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AGROBISNIS PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "570,98"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AGROEKOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "710,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AGROEKOTEKNOLOGI (PSDKU KEDIRI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "585,98"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AKUAKULTUR (PSDKU KEDIRI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "562,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "778,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ANTROPOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "648,53"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "726,58"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "BAHASA DAN SASTRA PRANCIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "561,99"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "BIOINFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "553,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "" : "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "596,23"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "BIOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "686,77"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "BUDIDAYA PERAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "570,81"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "EKONOMI ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "652,35"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "EKONOMI PEMBANGUNAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "694,35"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "EKONOMI, KEUANGAN DAN PERBANKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "744,13"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "758,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "561,75"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "757,48"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU AKTUARIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "663,75"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "721,94"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "804,17"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU KELAUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "663,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "744,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "777,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU PEMERINTAHAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "711,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU PERPUSTAKAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "612,98"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "ILMU POLITIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "689,06"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "INDUSTRI PETERNAKAN CERDAS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "557,41"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "INSTRUMENTASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "568,53"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KEBIDANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "786,16"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "838,37"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KEHUTANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "665,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KEWIRAUSAHAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "711,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "610,53"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "789,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "MANAJEMEN SUMBERDAYA PERAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "595,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "609,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PARIWISATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "732,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PEMANFAATAN SUMBERDAYA PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "625,41"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN BAHASA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "640,91"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN BAHASA JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "577,11"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN BHS & SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "621,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN DOKTER GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "754,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN DOKTER HEWAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "804,52"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PENDIDIKAN TEKNOLOGI INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "599,92"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PERENCANAAN WILAYAH & KOTA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "689,72"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PERPAJAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "756,42"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PETERNAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "712,58"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PETERNAKAN (PSDKU KEDIRI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "576,25"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "819,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SAINS DATA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "641,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SASTRA CINA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "600,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "702,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SASTRA JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "660,29"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SENI RUPA MURNI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "557,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SISTEM INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "773,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SOSIAL EKONOMI PERIKANAN (PSDKU KEDIRI)",
+    "JENJANG": "S1",
+    "SKOR UTBK": "563,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "SOSIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "663,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "674,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "712,95"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK GEOFISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "631,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "746,43"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK INDUSTRI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "683,40"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "811,13"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "699,52"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "710,31"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "701,68"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "734,30"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK PENGAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "632,17"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK PERTANIAN DAN BIOSISTEM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "636,64"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "746,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNOLOGI BIOPROSES",
+    "JENJANG": "S1",
+    "SKOR UTBK": "595,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNOLOGI HASIL PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "587,89"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNOLOGI INFORMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "736,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS BRAWIJAYA",
+    "JURUSAN": "TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "741,79"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ADMINISTRASI BISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "682,03"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ADMINISTRASI PUBLIK",
+    "JENJANG": "S1",
+    "SKOR UTBK": "676,26"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ADMINISTRASI PUBLIK KAMPUS REMBANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "588,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "AGRIBISNIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "AGROEKOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "639,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "AKUAKULTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "607,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "AKUNTANSI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "693,27"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "AKUNTANSI PERPAJAKAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "678,50"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ANTROPOLOGI SOSIAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,12"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ARSITEKTUR",
+    "JENJANG": "S1",
+    "SKOR UTBK": "670,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "BAHASA ASING TERAPAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "583,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "BAHASA DAN KEBUDAYAAN JEPANG",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "BIOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "606,33"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "BIOTEKNOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "619,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "BISNIS DIGITAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "EKONOMI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "646,90"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "EKONOMI ISLAM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "628,57"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "FARMASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "677,61"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "FISIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,36"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "GIZI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "678,09"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "HUBUNGAN INTERNASIONAL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "670,45"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "HUKUM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "706,53"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ILMU KELAUTAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "631,23"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ILMU KOMUNIKASI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "699,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ILMU PEMERINTAHAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "653,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "ILMU PERPUSTAKAAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "640,44"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "INFORMASI DAN HUMAS",
+    "JENJANG": "D4",
+    "SKOR UTBK": "625,56"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "688,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KEDOKTERAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "700,60"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KEDOKTERAN GIGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "634,02"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KEPERAWATAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "685,23"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KESEHATAN MASYARAKAT",
+    "JENJANG": "S1",
+    "SKOR UTBK": "685,75"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KESELAMATAN DAN KESEHATAN KERJA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "MANAJEMEN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "700,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "MANAJEMEN DAN ADMINISTRASI LOGISTIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "633,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "MANAJEMEN SUMBERDAYA PERAIRAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "605,57"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "MATEMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "612,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "OCEANOGRAFI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "609,85"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "PERENCANAAN TATA RUANG DAN PERTANAHAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "599,35"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "PERENCANAAN WILAYAH DAN KOTA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,74"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "PERIKANAN TANGKAP",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "PETERNAKAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "651,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "PSIKOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "708,73"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "REKAYASA PERANCANGAN MEKANIK",
+    "JENJANG": "D4",
+    "SKOR UTBK": "567,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "SASTRA INDONESIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "631,78"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "SASTRA INGGRIS",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "SEJARAH",
+    "JENJANG": "S1",
+    "SKOR UTBK": "609,96"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "STATISTIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "648,10"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK ELEKTRO",
+    "JENJANG": "S1",
+    "SKOR UTBK": "650,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK GEODESI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "629,07"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK GEOLOGI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "656,76"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK INDUSTRI",
+    "JENJANG": "S1",
+    "SKOR UTBK": "682,08"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK INFRASTRUKTUR SIPIL DAN PERANCANGAN ARSITEKTUR",
+    "JENJANG": "D4",
+    "SKOR UTBK": "620,56"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK KIMIA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "638,49"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK KOMPUTER",
+    "JENJANG": "S1",
+    "SKOR UTBK": "669,19"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK LINGKUNGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "645,93"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK LISTRIK INDUSTRI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "568,32"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK MESIN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "665,48"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK PERKAPALAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "630,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK SIPIL",
+    "JENJANG": "S1",
+    "SKOR UTBK": "683,16"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI HASIL PERIKANAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "676,20"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI REKAYASA KIMIA INDUSTRI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "580,18"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI REKAYASA KONSTRUKSI PERKAPALAN",
+    "JENJANG": "D4",
+    "SKOR UTBK": "562,38"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI REKAYASA OTOMASI",
+    "JENJANG": "D4",
+    "SKOR UTBK": "560,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK INFORMATIKA",
+    "JENJANG": "S1",
+    "SKOR UTBK": "703,01"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNIK PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "601,70"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI INDUSTRI KIMIA",
+    "JENJANG": "D4",
+    "SKOR UTBK": "(Prodi Baru)"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI INDUSTRI PERTANIAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "586,97"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TEKNOLOGI PANGAN",
+    "JENJANG": "S1",
+    "SKOR UTBK": "666,34"
+  },
+  {
+    "Universitas": "UNIVERSITAS DIPONEGORO",
+    "JURUSAN": "TELEVISI DAN FILM",
+    "JENJANG": "S1",
+    "SKOR UTBK": "659,72"
+  }
+]
